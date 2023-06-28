@@ -48,4 +48,4 @@ Mine a movable.sed using the following parameters:
 When the seed is mined, it will be moved to a folder named after the current timestamp (e.g `2023-06-28 1601`)
 
 ## Credits
-A massive thanks to Zoogie, who is responsible for the vast majority of the code in `seedminer_utils.py`.
+A massive thanks to [Zoogie](https://github.com/zoogie/), who is responsible for [the vast majority of the code](https://github.com/zoogie/seedminer) in `seedminer_utils.py`.
